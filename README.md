@@ -37,7 +37,10 @@ pip install -r requirements.txt
 4. Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run nse.py
+```
+```bash
+streamlit run usa.py
 ```
 
 ## Usage
