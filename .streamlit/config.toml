@@ -6,7 +6,7 @@ headless = true
 port = 8501
 
 # Address where to listen for requests (default is localhost)
-address = "0.0.0.0"
+address = "localhost"
 
 # Enable CORS protection
 enableCORS = false
